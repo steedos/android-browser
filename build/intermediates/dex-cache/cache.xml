@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/zhuangjianguo/Github/CrosswalkDemo/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library_beta/15.44.384.7/classes.jar"
+        jar="/Users/zhuangjianguo/Github/android-browser/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library_beta/15.44.384.7/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="0c5d249335e1ba2c819a563b0cc7c45d1a526d79">
-        <dex dex="/Users/zhuangjianguo/Github/CrosswalkDemo/app/build/intermediates/pre-dexed/debug/classes-e700383345f856de1b1e481518380b9fa4bedbf3.jar" />
+        <dex dex="/Users/zhuangjianguo/Github/android-browser/app/build/intermediates/pre-dexed/debug/classes-b2f72a0e2221e2f60e80a4cb7bd62b43b3c522ac.jar" />
     </item>
     <item
         jar="/Users/zhuangjianguo/Github/CrosswalkDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
@@ -14,6 +14,20 @@
         revision="23.0.2"
         sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
         <dex dex="/Users/zhuangjianguo/Github/CrosswalkDemo/app/build/intermediates/pre-dexed/debug/classes-60d47144ee800124350a6524a23af87a7083b966.jar" />
+    </item>
+    <item
+        jar="/Users/zhuangjianguo/Github/android-browser/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/zhuangjianguo/Github/android-browser/app/build/intermediates/pre-dexed/debug/classes-0fa16135d7cade703280e66af7991aab37cec2f2.jar" />
+    </item>
+    <item
+        jar="/Users/zhuangjianguo/Github/CrosswalkDemo/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library_beta/15.44.384.7/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c5d249335e1ba2c819a563b0cc7c45d1a526d79">
+        <dex dex="/Users/zhuangjianguo/Github/CrosswalkDemo/app/build/intermediates/pre-dexed/debug/classes-e700383345f856de1b1e481518380b9fa4bedbf3.jar" />
     </item>
     <item
         jar="/Users/zhuangjianguo/Github/CrosswalkDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
@@ -35,6 +49,20 @@
         revision="23.0.2"
         sha1="686344a780033e4ba22b926cd225f8d4941247e6">
         <dex dex="/Users/zhuangjianguo/Github/CrosswalkDemo/app/build/intermediates/pre-dexed/debug/classes-5f726be79b791154907f52ad4b03e263793e42ff.jar" />
+    </item>
+    <item
+        jar="/Users/zhuangjianguo/Github/android-browser/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/zhuangjianguo/Github/android-browser/app/build/intermediates/pre-dexed/debug/classes-6641e85175fa07fad34a43efbb879665553f4c16.jar" />
+    </item>
+    <item
+        jar="/Users/zhuangjianguo/Github/android-browser/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/zhuangjianguo/Github/android-browser/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-40473ad5045ee4f9f3ca6d8e341d64dcd8b52510.jar" />
     </item>
 
 </items>
