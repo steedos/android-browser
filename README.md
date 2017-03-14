@@ -1,7 +1,14 @@
 # CrosswalkDemo
 A simple project showing how to embed Crosswalk into an Android application.
 
-You can run the project in Android Studio or create an APK with the following command:
+1、首先确认本机已安装Android sdk
+
+2、在项目根目录下创建local.properties文件，在文件中输入sdk的路径，例如：
+```
+sdk.dir = /Users/chenzhipei/Library/Android/sdk/
+```
+
+3、通过以下命令打包成apk：
 
 `./gradlew assembleRelease`
 
