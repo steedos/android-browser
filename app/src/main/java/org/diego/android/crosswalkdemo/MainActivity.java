@@ -17,7 +17,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         xWalkWebView=(XWalkView)findViewById(R.id.xwalkWebView);
-        xWalkWebView.load("http://hotlong.vicp.net:2180", null);
+        xWalkWebView.load("http://121.22.11.44:315", null);
 
         // turn on debugging
         XWalkPreferences.setValue(XWalkPreferences.REMOTE_DEBUGGING, true);
